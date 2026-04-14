@@ -1,0 +1,56 @@
+[0.440s] Invoking command in '/home/kanika/kanika/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake /home/kanika/kanika/src/turtlebot3/turtlebot3_navigation2 -DCMAKE_INSTALL_PREFIX=/home/kanika/kanika/install/turtlebot3_navigation2
+[0.637s] -- The C compiler identification is GNU 13.3.0
+[1.325s] -- The CXX compiler identification is GNU 13.3.0
+[1.865s] -- Detecting C compiler ABI info
+[2.256s] -- Detecting C compiler ABI info - done
+[2.278s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.278s] -- Detecting C compile features
+[2.279s] -- Detecting C compile features - done
+[2.407s] -- Detecting CXX compiler ABI info
+[2.864s] -- Detecting CXX compiler ABI info - done
+[2.880s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.880s] -- Detecting CXX compile features
+[2.881s] -- Detecting CXX compile features - done
+[2.888s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[3.189s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[3.564s] -- Configuring done (3.1s)
+[3.572s] -- Generating done (0.0s)
+[3.575s] -- Build files have been written to: /home/kanika/kanika/build/turtlebot3_navigation2
+[3.581s] Invoked command in '/home/kanika/kanika/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake /home/kanika/kanika/src/turtlebot3/turtlebot3_navigation2 -DCMAKE_INSTALL_PREFIX=/home/kanika/kanika/install/turtlebot3_navigation2
+[3.583s] Invoking command in '/home/kanika/kanika/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake --build /home/kanika/kanika/build/turtlebot3_navigation2 -- -j8 -l8
+[3.648s] Invoked command in '/home/kanika/kanika/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake --build /home/kanika/kanika/build/turtlebot3_navigation2 -- -j8 -l8
+[3.650s] Invoking command in '/home/kanika/kanika/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake --install /home/kanika/kanika/build/turtlebot3_navigation2
+[3.661s] -- Install configuration: ""
+[3.662s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch
+[3.663s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+[3.663s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map
+[3.664s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.pgm
+[3.664s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.yaml
+[3.665s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param
+[3.665s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble
+[3.665s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/waffle_pi.yaml
+[3.665s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/waffle.yaml
+[3.666s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/burger.yaml
+[3.666s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/burger_cam.yaml
+[3.666s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+[3.666s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+[3.667s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+[3.667s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger_cam.yaml
+[3.667s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz
+[3.668s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+[3.669s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+[3.670s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+[3.670s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+[3.671s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+[3.672s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+[3.672s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+[3.672s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+[3.672s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+[3.673s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+[3.673s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+[3.674s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+[3.674s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+[3.674s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+[3.674s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+[3.675s] -- Installing: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml
+[3.680s] Invoked command in '/home/kanika/kanika/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake --install /home/kanika/kanika/build/turtlebot3_navigation2

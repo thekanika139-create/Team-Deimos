@@ -1,0 +1,24 @@
+[2.340s] Invoking command in '/home/kanika/kanika/build/turtlebot3_example': PYTHONPATH=/home/kanika/kanika/build/turtlebot3_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kanika/kanika/install/turtlebot3_example/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kanika/kanika/build/turtlebot3_example/build --no-deps symlink_data --force
+[3.012s] running develop
+[3.569s] running egg_info
+[3.642s] writing turtlebot3_example.egg-info/PKG-INFO
+[3.642s] writing dependency_links to turtlebot3_example.egg-info/dependency_links.txt
+[3.643s] writing entry points to turtlebot3_example.egg-info/entry_points.txt
+[3.644s] writing requirements to turtlebot3_example.egg-info/requires.txt
+[3.644s] writing top-level names to turtlebot3_example.egg-info/top_level.txt
+[3.812s] reading manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[3.818s] writing manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[3.879s] running build_ext
+[3.879s] Creating /home/kanika/kanika/install/turtlebot3_example/lib/python3.12/site-packages/turtlebot3-example.egg-link (link to .)
+[3.880s] Installing turtlebot3_absolute_move script to /home/kanika/kanika/install/turtlebot3_example/lib/turtlebot3_example
+[3.880s] Installing turtlebot3_interactive_marker script to /home/kanika/kanika/install/turtlebot3_example/lib/turtlebot3_example
+[3.881s] Installing turtlebot3_obstacle_detection script to /home/kanika/kanika/install/turtlebot3_example/lib/turtlebot3_example
+[3.881s] Installing turtlebot3_patrol_client script to /home/kanika/kanika/install/turtlebot3_example/lib/turtlebot3_example
+[3.882s] Installing turtlebot3_patrol_server script to /home/kanika/kanika/install/turtlebot3_example/lib/turtlebot3_example
+[3.882s] Installing turtlebot3_relative_move script to /home/kanika/kanika/install/turtlebot3_example/lib/turtlebot3_example
+[3.882s] 
+[3.883s] Installed /home/kanika/kanika/build/turtlebot3_example
+[3.883s] running symlink_data
+[3.883s] symbolically linking /home/kanika/kanika/build/turtlebot3_example/resource/turtlebot3_example -> /home/kanika/kanika/install/turtlebot3_example/share/ament_index/resource_index/packages
+[3.883s] symbolically linking /home/kanika/kanika/build/turtlebot3_example/package.xml -> /home/kanika/kanika/install/turtlebot3_example/share/turtlebot3_example
+[4.005s] Invoked command in '/home/kanika/kanika/build/turtlebot3_example' returned '0': PYTHONPATH=/home/kanika/kanika/build/turtlebot3_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kanika/kanika/install/turtlebot3_example/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kanika/kanika/build/turtlebot3_example/build --no-deps symlink_data --force

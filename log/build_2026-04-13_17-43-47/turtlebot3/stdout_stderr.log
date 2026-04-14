@@ -1,0 +1,22 @@
+-- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done (1.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/kanika/kanika/build/turtlebot3
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/kanika/kanika/install/turtlebot3/share/ament_index/resource_index/package_run_dependencies/turtlebot3
+-- Symlinking: /home/kanika/kanika/install/turtlebot3/share/ament_index/resource_index/parent_prefix_path/turtlebot3
+-- Symlinking: /home/kanika/kanika/install/turtlebot3/share/turtlebot3/environment/ament_prefix_path.sh
+-- Symlinking: /home/kanika/kanika/install/turtlebot3/share/turtlebot3/environment/ament_prefix_path.dsv
+-- Symlinking: /home/kanika/kanika/install/turtlebot3/share/turtlebot3/environment/path.sh
+-- Symlinking: /home/kanika/kanika/install/turtlebot3/share/turtlebot3/environment/path.dsv
+-- Symlinking: /home/kanika/kanika/install/turtlebot3/share/turtlebot3/local_setup.bash
+-- Symlinking: /home/kanika/kanika/install/turtlebot3/share/turtlebot3/local_setup.sh
+-- Symlinking: /home/kanika/kanika/install/turtlebot3/share/turtlebot3/local_setup.zsh
+-- Symlinking: /home/kanika/kanika/install/turtlebot3/share/turtlebot3/local_setup.dsv
+-- Symlinking: /home/kanika/kanika/install/turtlebot3/share/turtlebot3/package.dsv
+-- Symlinking: /home/kanika/kanika/install/turtlebot3/share/ament_index/resource_index/packages/turtlebot3
+-- Symlinking: /home/kanika/kanika/install/turtlebot3/share/turtlebot3/cmake/turtlebot3Config.cmake
+-- Symlinking: /home/kanika/kanika/install/turtlebot3/share/turtlebot3/cmake/turtlebot3Config-version.cmake
+-- Symlinking: /home/kanika/kanika/install/turtlebot3/share/turtlebot3/package.xml

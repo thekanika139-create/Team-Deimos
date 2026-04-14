@@ -1,0 +1,32 @@
+[0.061s] Invoking command in '/home/kanika/kanika/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/kanika/install/turtlebot3_teleop:/home/kanika/kanika/install/turtlebot3_example:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake /home/kanika/kanika/src/turtlebot3/turtlebot3_cartographer -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kanika/kanika/install/turtlebot3_cartographer
+[0.448s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.449s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.619s] -- Configuring done (0.5s)
+[0.627s] -- Generating done (0.0s)
+[0.630s] -- Build files have been written to: /home/kanika/kanika/build/turtlebot3_cartographer
+[0.955s] Invoked command in '/home/kanika/kanika/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/kanika/install/turtlebot3_teleop:/home/kanika/kanika/install/turtlebot3_example:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake /home/kanika/kanika/src/turtlebot3/turtlebot3_cartographer -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kanika/kanika/install/turtlebot3_cartographer
+[0.959s] Invoking command in '/home/kanika/kanika/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/kanika/install/turtlebot3_teleop:/home/kanika/kanika/install/turtlebot3_example:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake --build /home/kanika/kanika/build/turtlebot3_cartographer -- -j8 -l8
+[1.062s] Invoked command in '/home/kanika/kanika/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/kanika/install/turtlebot3_teleop:/home/kanika/kanika/install/turtlebot3_example:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake --build /home/kanika/kanika/build/turtlebot3_cartographer -- -j8 -l8
+[1.064s] Invoking command in '/home/kanika/kanika/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/kanika/install/turtlebot3_teleop:/home/kanika/kanika/install/turtlebot3_example:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake --install /home/kanika/kanika/build/turtlebot3_cartographer
+[1.081s] -- Install configuration: ""
+[1.082s] -- Execute custom install script
+[1.083s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua
+[1.106s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/cartographer.launch.py
+[1.130s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/occupancy_grid.launch.py
+[1.147s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz/tb3_cartographer.rviz
+[1.168s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/ament_index/resource_index/package_run_dependencies/turtlebot3_cartographer
+[1.193s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/ament_index/resource_index/parent_prefix_path/turtlebot3_cartographer
+[1.212s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.sh
+[1.232s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.dsv
+[1.252s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.sh
+[1.271s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.dsv
+[1.290s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.bash
+[1.308s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.sh
+[1.326s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.zsh
+[1.344s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.dsv
+[1.363s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.dsv
+[1.386s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/ament_index/resource_index/packages/turtlebot3_cartographer
+[1.407s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig.cmake
+[1.427s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig-version.cmake
+[1.446s] -- Symlinking: /home/kanika/kanika/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.xml
+[1.470s] Invoked command in '/home/kanika/kanika/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/kanika/install/turtlebot3_teleop:/home/kanika/kanika/install/turtlebot3_example:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake --install /home/kanika/kanika/build/turtlebot3_cartographer

@@ -1,0 +1,34 @@
+-- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done (0.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/kanika/kanika/build/turtlebot3_navigation2
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.pgm
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.yaml
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger_cam.yaml
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/burger.yaml
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/burger_cam.yaml
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/waffle.yaml
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/waffle_pi.yaml
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+-- Symlinking: /home/kanika/kanika/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml
