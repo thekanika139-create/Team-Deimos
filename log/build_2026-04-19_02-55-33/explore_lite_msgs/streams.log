@@ -1,0 +1,198 @@
+[0.088s] Invoking command in '/home/kanika/kanika/build/explore_lite_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/kanika/install/turtlebot3_teleop:/home/kanika/kanika/install/turtlebot3_example:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake /home/kanika/kanika/src/m-explore-ros2/explore_lite_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kanika/kanika/install/explore_lite_msgs
+[0.630s] -- The C compiler identification is GNU 13.3.0
+[2.502s] -- The CXX compiler identification is GNU 13.3.0
+[3.616s] -- Detecting C compiler ABI info
+[4.075s] -- Detecting C compiler ABI info - done
+[4.097s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.098s] -- Detecting C compile features
+[4.099s] -- Detecting C compile features - done
+[4.246s] -- Detecting CXX compiler ABI info
+[4.638s] -- Detecting CXX compiler ABI info - done
+[4.654s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[4.654s] -- Detecting CXX compile features
+[4.655s] -- Detecting CXX compile features - done
+[4.672s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[5.000s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[5.146s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[5.298s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[5.337s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.725s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.863s] -- Found rosidl_adapter: 4.6.7 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[6.980s] -- Found ament_cmake_ros: 0.12.0 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+[7.806s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[8.861s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[8.874s] -- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+[9.147s] -- Found PythonExtra: /usr/bin/python3  
+[9.895s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development NumPy Development.Module Development.Embed 
+[9.977s] -- Configuring done (9.8s)
+[10.047s] -- Generating done (0.1s)
+[10.069s] -- Build files have been written to: /home/kanika/kanika/build/explore_lite_msgs
+[10.081s] Invoked command in '/home/kanika/kanika/build/explore_lite_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/kanika/install/turtlebot3_teleop:/home/kanika/kanika/install/turtlebot3_example:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake /home/kanika/kanika/src/m-explore-ros2/explore_lite_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kanika/kanika/install/explore_lite_msgs
+[10.083s] Invoking command in '/home/kanika/kanika/build/explore_lite_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/kanika/install/turtlebot3_teleop:/home/kanika/kanika/install/turtlebot3_example:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake --build /home/kanika/kanika/build/explore_lite_msgs -- -j8 -l8
+[10.175s] [  2%] [34m[1mGenerating type hashes for ROS interfaces[0m
+[10.187s] [  2%] Built target ament_cmake_python_symlink_explore_lite_msgs
+[10.593s] [  2%] Built target explore_lite_msgs__rosidl_generator_type_description
+[10.611s] [  5%] [34m[1mGenerating C code for ROS interfaces[0m
+[10.623s] running egg_info
+[10.625s] creating explore_lite_msgs.egg-info
+[10.629s] [  8%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[10.660s] writing explore_lite_msgs.egg-info/PKG-INFO
+[10.660s] writing dependency_links to explore_lite_msgs.egg-info/dependency_links.txt
+[10.661s] writing top-level names to explore_lite_msgs.egg-info/top_level.txt
+[10.661s] writing manifest file 'explore_lite_msgs.egg-info/SOURCES.txt'
+[10.782s] reading manifest file 'explore_lite_msgs.egg-info/SOURCES.txt'
+[10.783s] writing manifest file 'explore_lite_msgs.egg-info/SOURCES.txt'
+[10.837s] [  8%] Built target ament_cmake_python_build_explore_lite_msgs_egg
+[11.175s] [  8%] Built target explore_lite_msgs__cpp
+[11.211s] [ 11%] [32mBuilding C object CMakeFiles/explore_lite_msgs__rosidl_generator_c.dir/rosidl_generator_c/explore_lite_msgs/msg/detail/explore_status__type_support.c.o[0m
+[11.212s] [ 14%] [32mBuilding C object CMakeFiles/explore_lite_msgs__rosidl_generator_c.dir/rosidl_generator_c/explore_lite_msgs/msg/detail/explore_status__description.c.o[0m
+[11.213s] [ 17%] [32mBuilding C object CMakeFiles/explore_lite_msgs__rosidl_generator_c.dir/rosidl_generator_c/explore_lite_msgs/msg/detail/explore_status__functions.c.o[0m
+[11.316s] [ 20%] [32m[1mLinking C shared library libexplore_lite_msgs__rosidl_generator_c.so[0m
+[11.574s] [ 20%] Built target explore_lite_msgs__rosidl_generator_c
+[11.595s] [ 23%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[11.597s] [ 26%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[11.597s] [ 32%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[11.599s] [ 32%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[11.602s] [ 35%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[11.603s] [ 38%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[12.287s] [ 41%] [32mBuilding CXX object CMakeFiles/explore_lite_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/explore_lite_msgs/msg/explore_status__type_support.cpp.o[0m
+[12.352s] [ 44%] [32mBuilding CXX object CMakeFiles/explore_lite_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/explore_lite_msgs/msg/detail/explore_status__type_support.cpp.o[0m
+[12.353s] [ 47%] [32mBuilding C object CMakeFiles/explore_lite_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/explore_lite_msgs/msg/detail/explore_status__type_support.c.o[0m
+[12.354s] [ 50%] [32mBuilding CXX object CMakeFiles/explore_lite_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/explore_lite_msgs/msg/explore_status__type_support.cpp.o[0m
+[12.369s] [ 52%] [32mBuilding CXX object CMakeFiles/explore_lite_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/explore_lite_msgs/msg/detail/dds_fastrtps/explore_status__type_support.cpp.o[0m
+[12.388s] [ 55%] [32mBuilding CXX object CMakeFiles/explore_lite_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/explore_lite_msgs/msg/detail/explore_status__type_support_c.cpp.o[0m
+[12.398s] [ 58%] [32m[1mLinking CXX shared library libexplore_lite_msgs__rosidl_typesupport_c.so[0m
+[12.432s] [ 61%] [32m[1mLinking C shared library libexplore_lite_msgs__rosidl_typesupport_introspection_c.so[0m
+[12.734s] [ 61%] Built target explore_lite_msgs__rosidl_typesupport_c
+[12.856s] [ 61%] Built target explore_lite_msgs__rosidl_typesupport_introspection_c
+[13.175s] [ 64%] [32m[1mLinking CXX shared library libexplore_lite_msgs__rosidl_typesupport_cpp.so[0m
+[13.209s] [ 67%] [32m[1mLinking CXX shared library libexplore_lite_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[13.423s] [ 67%] Built target explore_lite_msgs__rosidl_typesupport_cpp
+[13.495s] [ 67%] Built target explore_lite_msgs__rosidl_typesupport_introspection_cpp
+[13.501s] [ 70%] [32m[1mLinking CXX shared library libexplore_lite_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[13.508s] [ 73%] [32m[1mLinking CXX shared library libexplore_lite_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[13.766s] [ 73%] Built target explore_lite_msgs__rosidl_typesupport_fastrtps_c
+[13.779s] [ 73%] Built target explore_lite_msgs__rosidl_typesupport_fastrtps_cpp
+[13.815s] [ 73%] Built target explore_lite_msgs
+[13.852s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[14.509s] [ 76%] Built target explore_lite_msgs__py
+[14.564s] [ 79%] [32mBuilding C object CMakeFiles/explore_lite_msgs__rosidl_generator_py.dir/rosidl_generator_py/explore_lite_msgs/msg/_explore_status_s.c.o[0m
+[14.951s] [ 82%] [32m[1mLinking C shared library libexplore_lite_msgs__rosidl_generator_py.so[0m
+[15.231s] [ 82%] Built target explore_lite_msgs__rosidl_generator_py
+[15.294s] [ 85%] [32mBuilding C object CMakeFiles/explore_lite_msgs_s__rosidl_typesupport_introspection_c.dir/rosidl_generator_py/explore_lite_msgs/_explore_lite_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[15.297s] [ 88%] [32mBuilding C object CMakeFiles/explore_lite_msgs_s__rosidl_typesupport_fastrtps_c.dir/rosidl_generator_py/explore_lite_msgs/_explore_lite_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[15.303s] [ 91%] [32mBuilding C object CMakeFiles/explore_lite_msgs_s__rosidl_typesupport_c.dir/rosidl_generator_py/explore_lite_msgs/_explore_lite_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[15.672s] [ 94%] [32m[1mLinking C shared module rosidl_generator_py/explore_lite_msgs/explore_lite_msgs_s__rosidl_typesupport_c.so[0m
+[15.681s] [ 97%] [32m[1mLinking C shared module rosidl_generator_py/explore_lite_msgs/explore_lite_msgs_s__rosidl_typesupport_fastrtps_c.so[0m
+[15.695s] [100%] [32m[1mLinking C shared module rosidl_generator_py/explore_lite_msgs/explore_lite_msgs_s__rosidl_typesupport_introspection_c.so[0m
+[15.928s] [100%] Built target explore_lite_msgs_s__rosidl_typesupport_c
+[15.934s] [100%] Built target explore_lite_msgs_s__rosidl_typesupport_fastrtps_c
+[16.023s] [100%] Built target explore_lite_msgs_s__rosidl_typesupport_introspection_c
+[16.079s] Invoked command in '/home/kanika/kanika/build/explore_lite_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/kanika/install/turtlebot3_teleop:/home/kanika/kanika/install/turtlebot3_example:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake --build /home/kanika/kanika/build/explore_lite_msgs -- -j8 -l8
+[16.083s] Invoking command in '/home/kanika/kanika/build/explore_lite_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/kanika/install/turtlebot3_teleop:/home/kanika/kanika/install/turtlebot3_example:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake --install /home/kanika/kanika/build/explore_lite_msgs
+[16.115s] -- Install configuration: ""
+[16.117s] -- Execute custom install script
+[16.120s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/ament_index/resource_index/rosidl_interfaces/explore_lite_msgs
+[16.163s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/msg/ExploreStatus.json
+[16.203s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/detail/explore_status__functions.h
+[16.237s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/detail/explore_status__struct.h
+[16.271s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/detail/explore_status__type_support.h
+[16.300s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/explore_status.h
+[16.330s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/rosidl_generator_c__visibility_control.h
+[16.361s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/environment/library_path.sh
+[16.389s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/environment/library_path.dsv
+[16.431s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/detail/explore_status__rosidl_typesupport_fastrtps_c.h
+[16.465s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[16.498s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/detail/explore_status__rosidl_typesupport_introspection_c.h
+[16.538s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[16.571s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/detail/explore_status__builder.hpp
+[16.609s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/detail/explore_status__struct.hpp
+[16.647s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/detail/explore_status__traits.hpp
+[16.689s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/detail/explore_status__type_support.hpp
+[16.740s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/explore_status.hpp
+[16.802s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[16.844s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/detail/explore_status__rosidl_typesupport_fastrtps_cpp.hpp
+[16.891s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[16.944s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/include/explore_lite_msgs/explore_lite_msgs/msg/detail/explore_status__rosidl_typesupport_introspection_cpp.hpp
+[16.999s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/environment/pythonpath.sh
+[17.044s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/environment/pythonpath.dsv
+[17.110s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs-1.0.0-py3.12.egg-info/PKG-INFO
+[17.165s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs-1.0.0-py3.12.egg-info/SOURCES.txt
+[17.220s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs-1.0.0-py3.12.egg-info/dependency_links.txt
+[17.269s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs-1.0.0-py3.12.egg-info/top_level.txt
+[17.322s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/__init__.py
+[17.372s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/_explore_lite_msgs_s.ep.rosidl_typesupport_c.c
+[17.424s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/_explore_lite_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[17.469s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/_explore_lite_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[17.519s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/explore_lite_msgs_s__rosidl_typesupport_c.so
+[17.562s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/explore_lite_msgs_s__rosidl_typesupport_fastrtps_c.so
+[17.607s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/explore_lite_msgs_s__rosidl_typesupport_introspection_c.so
+[17.655s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/msg/__init__.py
+[17.696s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/msg/_explore_status.py
+[17.755s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/msg/_explore_status_s.c
+[17.796s] -- Up-to-date symlink: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/explore_lite_msgs_s__rosidl_typesupport_fastrtps_c.so
+[17.797s] -- Up-to-date symlink: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/explore_lite_msgs_s__rosidl_typesupport_introspection_c.so
+[17.798s] -- Up-to-date symlink: /home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/explore_lite_msgs_s__rosidl_typesupport_c.so
+[17.799s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/msg/ExploreStatus.idl
+[17.850s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/msg/ExploreStatus.msg
+[17.895s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/ament_index/resource_index/package_run_dependencies/explore_lite_msgs
+[17.940s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/ament_index/resource_index/parent_prefix_path/explore_lite_msgs
+[17.999s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/environment/ament_prefix_path.sh
+[18.053s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/environment/ament_prefix_path.dsv
+[18.099s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/environment/path.sh
+[18.143s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/environment/path.dsv
+[18.180s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/local_setup.bash
+[18.228s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/local_setup.sh
+[18.276s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/local_setup.zsh
+[18.321s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/local_setup.dsv
+[18.373s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/package.dsv
+[18.422s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/ament_index/resource_index/packages/explore_lite_msgs
+[18.474s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/rosidl_cmake-extras.cmake
+[18.520s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[18.562s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[18.606s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[18.647s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[18.689s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[18.742s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[18.802s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/explore_lite_msgsConfig.cmake
+[18.844s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/explore_lite_msgsConfig-version.cmake
+[18.892s] -- Symlinking: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/package.xml
+[18.934s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/lib/libexplore_lite_msgs__rosidl_generator_c.so
+[18.936s] -- Set non-toolchain portion of runtime path of "/home/kanika/kanika/install/explore_lite_msgs/lib/libexplore_lite_msgs__rosidl_generator_c.so" to ""
+[18.937s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/lib/libexplore_lite_msgs__rosidl_typesupport_fastrtps_c.so
+[18.939s] -- Set non-toolchain portion of runtime path of "/home/kanika/kanika/install/explore_lite_msgs/lib/libexplore_lite_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[18.939s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/lib/libexplore_lite_msgs__rosidl_typesupport_introspection_c.so
+[18.941s] -- Set non-toolchain portion of runtime path of "/home/kanika/kanika/install/explore_lite_msgs/lib/libexplore_lite_msgs__rosidl_typesupport_introspection_c.so" to ""
+[18.941s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/lib/libexplore_lite_msgs__rosidl_typesupport_c.so
+[18.942s] -- Set non-toolchain portion of runtime path of "/home/kanika/kanika/install/explore_lite_msgs/lib/libexplore_lite_msgs__rosidl_typesupport_c.so" to ""
+[18.943s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/lib/libexplore_lite_msgs__rosidl_typesupport_fastrtps_cpp.so
+[18.944s] -- Set non-toolchain portion of runtime path of "/home/kanika/kanika/install/explore_lite_msgs/lib/libexplore_lite_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[18.944s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/lib/libexplore_lite_msgs__rosidl_typesupport_introspection_cpp.so
+[18.945s] -- Set non-toolchain portion of runtime path of "/home/kanika/kanika/install/explore_lite_msgs/lib/libexplore_lite_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[18.946s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/lib/libexplore_lite_msgs__rosidl_typesupport_cpp.so
+[18.946s] -- Set non-toolchain portion of runtime path of "/home/kanika/kanika/install/explore_lite_msgs/lib/libexplore_lite_msgs__rosidl_typesupport_cpp.so" to ""
+[19.161s] Listing '/home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs'...
+[19.162s] Compiling '/home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/__init__.py'...
+[19.164s] Listing '/home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/msg'...
+[19.166s] Compiling '/home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/msg/__init__.py'...
+[19.168s] Compiling '/home/kanika/kanika/install/explore_lite_msgs/lib/python3.12/site-packages/explore_lite_msgs/msg/_explore_status.py'...
+[19.191s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/lib/libexplore_lite_msgs__rosidl_generator_py.so
+[19.193s] -- Set non-toolchain portion of runtime path of "/home/kanika/kanika/install/explore_lite_msgs/lib/libexplore_lite_msgs__rosidl_generator_py.so" to ""
+[19.193s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/export_explore_lite_msgs__rosidl_generator_cExport.cmake
+[19.194s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/export_explore_lite_msgs__rosidl_generator_cExport-noconfig.cmake
+[19.195s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/export_explore_lite_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[19.197s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/export_explore_lite_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[19.199s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/explore_lite_msgs__rosidl_typesupport_introspection_cExport.cmake
+[19.200s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/explore_lite_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[19.200s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/explore_lite_msgs__rosidl_typesupport_cExport.cmake
+[19.202s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/explore_lite_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[19.202s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/export_explore_lite_msgs__rosidl_generator_cppExport.cmake
+[19.203s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/export_explore_lite_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[19.203s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/export_explore_lite_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[19.204s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/explore_lite_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[19.207s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/explore_lite_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[19.208s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/explore_lite_msgs__rosidl_typesupport_cppExport.cmake
+[19.208s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/explore_lite_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[19.208s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/export_explore_lite_msgs__rosidl_generator_pyExport.cmake
+[19.209s] -- Installing: /home/kanika/kanika/install/explore_lite_msgs/share/explore_lite_msgs/cmake/export_explore_lite_msgs__rosidl_generator_pyExport-noconfig.cmake
+[19.216s] Invoked command in '/home/kanika/kanika/build/explore_lite_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kanika/kanika/install/turtlebot3_teleop:/home/kanika/kanika/install/turtlebot3_example:/home/kanika/tb3_ws/install/turtlebot3_teleop:/home/kanika/tb3_ws/install/turtlebot3_example:/opt/ros/jazzy /usr/bin/cmake --install /home/kanika/kanika/build/explore_lite_msgs

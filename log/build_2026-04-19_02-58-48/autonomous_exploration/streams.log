@@ -1,0 +1,24 @@
+[2.219s] Invoking command in '/home/kanika/kanika/build/autonomous_exploration': PYTHONPATH=/home/kanika/kanika/build/autonomous_exploration/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kanika/kanika/install/autonomous_exploration/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kanika/kanika/build/autonomous_exploration/build --no-deps symlink_data
+[2.742s] running develop
+[3.059s] running egg_info
+[3.060s] creating autonomous_exploration.egg-info
+[3.088s] writing autonomous_exploration.egg-info/PKG-INFO
+[3.088s] writing dependency_links to autonomous_exploration.egg-info/dependency_links.txt
+[3.089s] writing requirements to autonomous_exploration.egg-info/requires.txt
+[3.089s] writing top-level names to autonomous_exploration.egg-info/top_level.txt
+[3.091s] writing manifest file 'autonomous_exploration.egg-info/SOURCES.txt'
+[3.157s] reading manifest file 'autonomous_exploration.egg-info/SOURCES.txt'
+[3.158s] writing manifest file 'autonomous_exploration.egg-info/SOURCES.txt'
+[3.194s] running build_ext
+[3.194s] Creating /home/kanika/kanika/install/autonomous_exploration/lib/python3.12/site-packages/autonomous-exploration.egg-link (link to .)
+[3.195s] 
+[3.195s] Installed /home/kanika/kanika/build/autonomous_exploration
+[3.195s] running symlink_data
+[3.196s] creating /home/kanika/kanika/install/autonomous_exploration/share/ament_index
+[3.196s] creating /home/kanika/kanika/install/autonomous_exploration/share/ament_index/resource_index
+[3.196s] creating /home/kanika/kanika/install/autonomous_exploration/share/ament_index/resource_index/packages
+[3.197s] symbolically linking /home/kanika/kanika/build/autonomous_exploration/resource/autonomous_exploration -> /home/kanika/kanika/install/autonomous_exploration/share/ament_index/resource_index/packages
+[3.197s] symbolically linking /home/kanika/kanika/build/autonomous_exploration/package.xml -> /home/kanika/kanika/install/autonomous_exploration/share/autonomous_exploration
+[3.198s] creating /home/kanika/kanika/install/autonomous_exploration/share/autonomous_exploration/launch
+[3.198s] symbolically linking /home/kanika/kanika/build/autonomous_exploration/launch/autonomous_exploration.launch.py -> /home/kanika/kanika/install/autonomous_exploration/share/autonomous_exploration/launch
+[3.250s] Invoked command in '/home/kanika/kanika/build/autonomous_exploration' returned '0': PYTHONPATH=/home/kanika/kanika/build/autonomous_exploration/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kanika/kanika/install/autonomous_exploration/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kanika/kanika/build/autonomous_exploration/build --no-deps symlink_data

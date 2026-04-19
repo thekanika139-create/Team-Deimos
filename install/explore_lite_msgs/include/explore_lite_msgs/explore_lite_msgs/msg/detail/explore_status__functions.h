@@ -1,0 +1,1 @@
+/home/kanika/kanika/build/explore_lite_msgs/rosidl_generator_c/explore_lite_msgs/msg/detail/explore_status__functions.h
